@@ -1,4 +1,4 @@
-# 🚀 Virtual Scroll Application - 10M Users
+# SanadTech PFE Project
 
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js)](https://nodejs.org/)
